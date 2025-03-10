@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Desktop\adminServis\AdminServices\AdminServices\bin\Debug\AdminServices.exe.config
+C:\Users\USUARIO\Desktop\adminServis\AdminServices\AdminServices\bin\Debug\AdminServices.exe
+C:\Users\USUARIO\Desktop\adminServis\AdminServices\AdminServices\bin\Debug\AdminServices.pdb
+C:\Users\USUARIO\Desktop\adminServis\AdminServices\AdminServices\obj\Debug\AdminServices.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\adminServis\AdminServices\AdminServices\obj\Debug\AdminServices.presentacion.resources
+C:\Users\USUARIO\Desktop\adminServis\AdminServices\AdminServices\obj\Debug\AdminServices.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\adminServis\AdminServices\AdminServices\obj\Debug\AdminServices.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\adminServis\AdminServices\AdminServices\obj\Debug\AdminServices.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\adminServis\AdminServices\AdminServices\obj\Debug\AdminServices.exe
+C:\Users\USUARIO\Desktop\adminServis\AdminServices\AdminServices\obj\Debug\AdminServices.pdb
