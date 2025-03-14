@@ -10,7 +10,7 @@ namespace dominio
     {
         public int Id { get; set; }
         public string NombreCliente { get; set; }
-        public string FechaServicio { get; set; }
+        public DateTime FechaServicio { get; set; }
         public string LugarServicio { get; set; }
         public decimal PagoRecibido { get; set; }
         public int Celular { get; set; }
